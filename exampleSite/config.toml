@@ -1,6 +1,6 @@
 baseURL = "https://elastic-tesla-742a7c.netlify.com/"
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 disableLanguages = [""]
 disqusShortname = ""
 paginate = "6"
