@@ -1,4 +1,4 @@
-baseURL = "https://presence.com"
+baseURL = "https://elastic-tesla-742a7c.netlify.com/"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 disableLanguages = [""]
